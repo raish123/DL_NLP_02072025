@@ -3,12 +3,16 @@ scikit-learn
 seaborn
 matplotlib
 cloudpickle
-torch          # 🔧 Core PyTorch library - tensors, neural networks, GPU acceleration
-torchtext      # 📝 NLP-specific tools - datasets, token pipelines, vocab
-datasets       # 📦 Hugging Face datasets - load public datasets easily
-tokenizers     # ⚡ Superfast tokenization for BERT, GPT etc. (used with transformers)
-torchinfo      # 🔍 Gives model summary (like Keras’s model.summary())
-ipykernel      ## 🧪 Run your env inside Jupyter as a kernel
+
+torch
+torchvision
+torchaudio
+
+torchtext
+datasets
+tokenizers
+torchinfo
+ipykernel
 notebook
 fastapi
 optuna
