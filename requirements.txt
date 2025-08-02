@@ -16,3 +16,5 @@ ipykernel
 notebook
 fastapi
 optuna
+
+nltk
